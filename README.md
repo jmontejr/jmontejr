@@ -18,7 +18,7 @@
 <br>
 
 ```javascript
-let jmontejr = {
+const jmontejr = {
     code: ['HTML', 'CSS', 'JavaScript', 'Python', 'PHP'],
     keyWords: ['dev', 'tech', 'coffee', 'web', 'performance', 'clean code','responsive'],
     technologies: {
@@ -30,7 +30,7 @@ let jmontejr = {
 };
 ```
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jmontejr&show_icons=true&locale=&layout=compact&theme=material-palenight" alt="jmontejr" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmontejr&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="jmontejr" />
+<p align="center">
+<img width="430px" align="center" src="https://github-readme-stats.vercel.app/api?username=jmontejr&show_icons=true&locale=&layout=compact&theme=material-palenight" alt="jmontejr" />
+<img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jmontejr&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="jmontejr" />
 </p>
