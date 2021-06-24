@@ -22,10 +22,10 @@ const jmontejr = {
     code: ['HTML', 'CSS', 'JavaScript', 'Python', 'PHP'],
     keyWords: ['dev', 'tech', 'coffee', 'web', 'performance', 'clean code','responsive'],
     technologies: {
-        frontEnd: ['Gulp', 'Babel', 'Vue', 'Ionic', 'Bootstrap', 'Sass', 'Less', 'WordPress'],
+        frontEnd: ['Gulp', 'Babel', 'Vue', 'Ionic', 'Bootstrap', 'Sass', 'Less', 'WordPress', 'Webpack', 'React'],
         backEnd: ['Python', 'PHP', 'MySQL', 'PostgreSQL', 'Node'],
         osAndIdeAndTools: ['VS Code', 'Postman', 'Git', 'Linux', 'Windows', 'NPM'],
-        futureInterests : ['Laravel', 'Docker', 'Nuxt', 'Jest']
+        futureInterests : ['Laravel', 'Django', 'Docker', 'Nuxt', 'Jest']
     }
 };
 ```
