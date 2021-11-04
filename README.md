@@ -23,9 +23,9 @@ const jmontejr = {
     keyWords: ['dev', 'tech', 'coffee', 'web', 'performance', 'clean code','responsive'],
     technologies: {
         frontEnd: ['Gulp', 'Babel', 'Vue', 'Ionic', 'Bootstrap', 'Sass', 'Less', 'WordPress', 'Webpack', 'React'],
-        backEnd: ['Python', 'PHP', 'MySQL', 'PostgreSQL', 'Node'],
+        backEnd: ['Python', 'PHP', 'MySQL', 'PostgreSQL', 'Node', 'Docker'],
         osAndIdeAndTools: ['VS Code', 'Postman', 'Git', 'Linux', 'Windows', 'NPM'],
-        futureInterests : ['Laravel', 'Django', 'Docker', 'Nuxt', 'Jest']
+        futureInterests : ['Laravel', 'Django', 'Nuxt', 'Jest']
     }
 };
 ```
