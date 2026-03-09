@@ -6,7 +6,7 @@
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/josemontejr">
-        <img src="https://img.shields.io/static/v1?label=linkedin&message=jmontejr&color=9e58f9&style=for-the-badge&logo=linkedin"/>
+        <img src="https://img.shields.io/static/v1?label=linkedin&message=josemontejr&color=9e58f9&style=for-the-badge&logo=linkedin"/>
     </a>
     &nbsp;
     <a href="https://codepen.io/jmontejr">
