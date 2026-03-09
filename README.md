@@ -5,7 +5,7 @@
         <img src="https://img.shields.io/static/v1?label=site&message=jmontejr.github.io&color=9e58f9&style=for-the-badge"/>
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/jmontejr">
+    <a href="https://www.linkedin.com/in/josemontejr">
         <img src="https://img.shields.io/static/v1?label=linkedin&message=jmontejr&color=9e58f9&style=for-the-badge&logo=linkedin"/>
     </a>
     &nbsp;
