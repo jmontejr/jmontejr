@@ -1,8 +1,8 @@
 # Hi there, I'm Jose Monte 👋
 
 <p style="margin-bottom: 50px">
-    <a href="https://jmontejr.github.io">
-        <img src="https://img.shields.io/static/v1?label=site&message=jmontejr.github.io&color=9e58f9&style=for-the-badge"/>
+    <a href="https://josemontejr.github.io">
+        <img src="https://img.shields.io/static/v1?label=site&message=josemontejr.github.io&color=9e58f9&style=for-the-badge"/>
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/josemontejr">
